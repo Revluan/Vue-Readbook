@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Marginality</dc:title>
+    <dc:creator>Joachim Braun and Franz W. Gatzweiler</dc:creator>
+    <dc:language>En</dc:language>
+    <dc:rights></dc:rights>
+    <dc:publisher>Springer Netherlands, Dordrecht</dc:publisher>
+    <dc:identifier id="bookid">978-94-007-7061-4</dc:identifier>
+    <meta name="cover" content="A978-94-007-7061-4_CoverFigure"/> 
+    <meta name="epub-converter-version" content="v3.11"/>
+  </metadata>
+
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="css1" href="springer_epub.css" media-type="text/css"/>
+    <!--item id="css2" href="springer_classic.css" media-type="text/css"/-->
+    <item id="A313079_1_En_1_Chapter" href="A313079_1_En_1_Chapter.html" media-type="application/xhtml+xml"/>
+<item id="A313079_1_En_2_ChapterPart1" href="A313079_1_En_2_ChapterPart1.html" media-type="application/xhtml+xml"/>
+<item id="A313079_1_En_2_Chapter" href="A313079_1_En_2_Chapter.html" media-type="application/xhtml+xml"/>
+<item id="A313079_1_En_3_Chapter" href="A313079_1_En_3_Chapter.html" media-type="application/xhtml+xml"/>
+<item id="A313079_1_En_4_Chapter" href="A313079_1_En_4_Chapter.html" media-type="application/xhtml+xml"/>
+<item id="A313079_1_En_5_ChapterPart2" href="A313079_1_En_5_ChapterPart2.html" media-type="application/xhtml+xml"/>
+<item id="A313079_1_En_5_Chapter" href="A313079_1_En_5_Chapter.html" media-type="application/xhtml+xml"/>
+<item id="A313079_1_En_6_Chapter" href="A313079_1_En_6_Chapter.html" media-type="application/xhtml+xml"/>
+<item id="A313079_1_En_7_Chapter" href="A313079_1_En_7_Chapter.html" media-type="application/xhtml+xml"/>
+<item id="A313079_1_En_8_Chapter" href="A313079_1_En_8_Chapter.html" media-type="application/xhtml+xml"/>
+<item id="A313079_1_En_9_Chapter" href="A313079_1_En_9_Chapter.html" media-type="application/xhtml+xml"/>
+<item id="A313079_1_En_10_ChapterPart3" href="A313079_1_En_10_ChapterPart3.html" media-type="application/xhtml+xml"/>
+<item id="A313079_1_En_10_Chapter" href="A313079_1_En_10_Chapter.html" media-type="application/xhtml+xml"/>
+<item id="A313079_1_En_11_Chapter" href="A313079_1_En_11_Chapter.html" media-type="application/xhtml+xml"/>
+<item id="A313079_1_En_12_Chapter" href="A313079_1_En_12_Chapter.html" media-type="application/xhtml+xml"/>
+<item id="A313079_1_En_13_ChapterPart4" href="A313079_1_En_13_ChapterPart4.html" media-type="application/xhtml+xml"/>
+<item id="A313079_1_En_13_Chapter" href="A313079_1_En_13_Chapter.html" media-type="application/xhtml+xml"/>
+<item id="A313079_1_En_14_Chapter" href="A313079_1_En_14_Chapter.html" media-type="application/xhtml+xml"/>
+<item id="A313079_1_En_15_Chapter" href="A313079_1_En_15_Chapter.html" media-type="application/xhtml+xml"/>
+<item id="A313079_1_En_16_Chapter" href="A313079_1_En_16_Chapter.html" media-type="application/xhtml+xml"/>
+<item id="A313079_1_En_17_Chapter" href="A313079_1_En_17_Chapter.html" media-type="application/xhtml+xml"/>
+<item id="A313079_1_En_18_ChapterPart5" href="A313079_1_En_18_ChapterPart5.html" media-type="application/xhtml+xml"/>
+<item id="A313079_1_En_18_Chapter" href="A313079_1_En_18_Chapter.html" media-type="application/xhtml+xml"/>
+<item id="A313079_1_En_19_Chapter" href="A313079_1_En_19_Chapter.html" media-type="application/xhtml+xml"/>
+<item id="A313079_1_En_20_Chapter" href="A313079_1_En_20_Chapter.html" media-type="application/xhtml+xml"/>
+<item id="A313079_1_En_21_Chapter" href="A313079_1_En_21_Chapter.html" media-type="application/xhtml+xml"/>
+<item id="A313079_1_En_22_Chapter" href="A313079_1_En_22_Chapter.html" media-type="application/xhtml+xml"/>
+<item id="A313079_1_En_BookFrontmatter_OnlinePDF" href="A313079_1_En_BookFrontmatter_OnlinePDF.html" media-type="application/xhtml+xml"/>
+<item id="ACoverHTML" href="ACoverHTML.html" media-type="application/xhtml+xml"/>
+<item id="A313079_1_En_BookBackmatter_OnlinePDF" href="A313079_1_En_BookBackmatter_OnlinePDF.html" media-type="application/xhtml+xml"/>
+
+    <item id="contact.gif" href="contact.gif" media-type="image/gif"/>
+<item id="sidebar.gif" href="sidebar.gif" media-type="image/gif"/>
+<item id="A313079_1_En_5_Fig4_HTML" href="A313079_1_En_5_Fig4_HTML.gif" media-type="image/gif"/>
+<item id="A313079_1_En_17_Fig1_HTML" href="A313079_1_En_17_Fig1_HTML.gif" media-type="image/gif"/>
+<item id="A313079_1_En_10_Fig6_HTML" href="A313079_1_En_10_Fig6_HTML.gif" media-type="image/gif"/>
+<item id="A313079_1_En_2_Fig2_HTML" href="A313079_1_En_2_Fig2_HTML.gif" media-type="image/gif"/>
+<item id="A313079_1_En_3_Fig1_HTML" href="A313079_1_En_3_Fig1_HTML.gif" media-type="image/gif"/>
+<item id="A313079_1_En_6_Chapter_IEq00068" href="A313079_1_En_6_Chapter_IEq00068.gif" media-type="image/gif"/>
+<item id="A313079_1_En_6_Fig3_HTML" href="A313079_1_En_6_Fig3_HTML.gif" media-type="image/gif"/>
+<item id="A313079_1_En_16_Fig1_HTML" href="A313079_1_En_16_Fig1_HTML.gif" media-type="image/gif"/>
+<item id="A313079_1_En_5_Fig2_HTML" href="A313079_1_En_5_Fig2_HTML.gif" media-type="image/gif"/>
+<item id="A313079_1_En_3_Chapter_Equ00031" href="A313079_1_En_3_Chapter_Equ00031.gif" media-type="image/gif"/>
+<item id="A313079_1_En_6_Fig8_HTML" href="A313079_1_En_6_Fig8_HTML.gif" media-type="image/gif"/>
+<item id="A313079_1_En_6_Fig5_HTML" href="A313079_1_En_6_Fig5_HTML.gif" media-type="image/gif"/>
+<item id="A313079_1_En_6_Fig7_HTML" href="A313079_1_En_6_Fig7_HTML.gif" media-type="image/gif"/>
+<item id="A978-94-007-7061-4_CoverFigure" href="A978-94-007-7061-4_CoverFigure.jpg" media-type="image/jpeg"/>
+<item id="A313079_1_En_10_Fig3_HTML" href="A313079_1_En_10_Fig3_HTML.gif" media-type="image/gif"/>
+<item id="A313079_1_En_18_Fig1_HTML" href="A313079_1_En_18_Fig1_HTML.gif" media-type="image/gif"/>
+<item id="A313079_1_En_14_Fig4_HTML" href="A313079_1_En_14_Fig4_HTML.gif" media-type="image/gif"/>
+<item id="A313079_1_En_3_Fig2_HTML" href="A313079_1_En_3_Fig2_HTML.gif" media-type="image/gif"/>
+<item id="A313079_1_En_6_Fig1_HTML" href="A313079_1_En_6_Fig1_HTML.gif" media-type="image/gif"/>
+<item id="A313079_1_En_14_Fig5_HTML" href="A313079_1_En_14_Fig5_HTML.gif" media-type="image/gif"/>
+<item id="A313079_1_En_7_Fig6_HTML" href="A313079_1_En_7_Fig6_HTML.gif" media-type="image/gif"/>
+<item id="A313079_1_En_15_Fig2_HTML" href="A313079_1_En_15_Fig2_HTML.gif" media-type="image/gif"/>
+<item id="A313079_1_En_6_Chapter_Equ00061" href="A313079_1_En_6_Chapter_Equ00061.gif" media-type="image/gif"/>
+<item id="A313079_1_En_3_Fig3_HTML" href="A313079_1_En_3_Fig3_HTML.gif" media-type="image/gif"/>
+<item id="A313079_1_En_14_Fig1_HTML" href="A313079_1_En_14_Fig1_HTML.gif" media-type="image/gif"/>
+<item id="A313079_1_En_6_Chapter_IEq00064" href="A313079_1_En_6_Chapter_IEq00064.gif" media-type="image/gif"/>
+<item id="A313079_1_En_10_Fig5_HTML" href="A313079_1_En_10_Fig5_HTML.gif" media-type="image/gif"/>
+<item id="A313079_1_En_6_Chapter_IEq00066" href="A313079_1_En_6_Chapter_IEq00066.gif" media-type="image/gif"/>
+<item id="A313079_1_En_2_Fig1_HTML" href="A313079_1_En_2_Fig1_HTML.gif" media-type="image/gif"/>
+<item id="A313079_1_En_6_Chapter_IEq00065" href="A313079_1_En_6_Chapter_IEq00065.gif" media-type="image/gif"/>
+<item id="A313079_1_En_4_Fig1_HTML" href="A313079_1_En_4_Fig1_HTML.gif" media-type="image/gif"/>
+<item id="A313079_1_En_5_Fig3_HTML" href="A313079_1_En_5_Fig3_HTML.gif" media-type="image/gif"/>
+<item id="A313079_1_En_12_Fig1_HTML" href="A313079_1_En_12_Fig1_HTML.gif" media-type="image/gif"/>
+<item id="A313079_1_En_20_Fig1_HTML" href="A313079_1_En_20_Fig1_HTML.gif" media-type="image/gif"/>
+<item id="A313079_1_En_6_Chapter_IEq00067" href="A313079_1_En_6_Chapter_IEq00067.gif" media-type="image/gif"/>
+<item id="A313079_1_En_12_Fig2_HTML" href="A313079_1_En_12_Fig2_HTML.gif" media-type="image/gif"/>
+<item id="A313079_1_En_6_Chapter_IEq00069" href="A313079_1_En_6_Chapter_IEq00069.gif" media-type="image/gif"/>
+<item id="A313079_1_En_BookFrontmatter_Figa_HTML" href="A313079_1_En_BookFrontmatter_Figa_HTML.png" media-type="image/png"/>
+<item id="A313079_1_En_6_Chapter_Equ000601" href="A313079_1_En_6_Chapter_Equ000601.gif" media-type="image/gif"/>
+<item id="A313079_1_En_14_Fig3_HTML" href="A313079_1_En_14_Fig3_HTML.gif" media-type="image/gif"/>
+<item id="A313079_1_En_6_Fig4_HTML" href="A313079_1_En_6_Fig4_HTML.gif" media-type="image/gif"/>
+<item id="A313079_1_En_6_Fig2_HTML" href="A313079_1_En_6_Fig2_HTML.gif" media-type="image/gif"/>
+<item id="A313079_1_En_14_Fig6_HTML" href="A313079_1_En_14_Fig6_HTML.gif" media-type="image/gif"/>
+<item id="A313079_1_En_14_Fig2_HTML" href="A313079_1_En_14_Fig2_HTML.gif" media-type="image/gif"/>
+<item id="A313079_1_En_6_Chapter_IEq00063" href="A313079_1_En_6_Chapter_IEq00063.gif" media-type="image/gif"/>
+<item id="A313079_1_En_6_Chapter_IEq00061" href="A313079_1_En_6_Chapter_IEq00061.gif" media-type="image/gif"/>
+<item id="A313079_1_En_3_Chapter_Equ00032" href="A313079_1_En_3_Chapter_Equ00032.gif" media-type="image/gif"/>
+<item id="A313079_1_En_6_Chapter_IEq000610" href="A313079_1_En_6_Chapter_IEq000610.gif" media-type="image/gif"/>
+<item id="A313079_1_En_7_Fig1_HTML" href="A313079_1_En_7_Fig1_HTML.gif" media-type="image/gif"/>
+<item id="A313079_1_En_7_Fig8_HTML" href="A313079_1_En_7_Fig8_HTML.gif" media-type="image/gif"/>
+<item id="A313079_1_En_12_Fig4_HTML" href="A313079_1_En_12_Fig4_HTML.gif" media-type="image/gif"/>
+<item id="A313079_1_En_10_Fig1_HTML" href="A313079_1_En_10_Fig1_HTML.gif" media-type="image/gif"/>
+<item id="A313079_1_En_10_Fig2_HTML" href="A313079_1_En_10_Fig2_HTML.gif" media-type="image/gif"/>
+<item id="A313079_1_En_3_Fig4_HTML" href="A313079_1_En_3_Fig4_HTML.gif" media-type="image/gif"/>
+<item id="A313079_1_En_5_Fig1_HTML" href="A313079_1_En_5_Fig1_HTML.gif" media-type="image/gif"/>
+<item id="A313079_1_En_6_Fig6_HTML" href="A313079_1_En_6_Fig6_HTML.gif" media-type="image/gif"/>
+<item id="A313079_1_En_15_Fig1_HTML" href="A313079_1_En_15_Fig1_HTML.gif" media-type="image/gif"/>
+<item id="A313079_1_En_7_Fig7_HTML" href="A313079_1_En_7_Fig7_HTML.gif" media-type="image/gif"/>
+<item id="A313079_1_En_12_Fig3_HTML" href="A313079_1_En_12_Fig3_HTML.gif" media-type="image/gif"/>
+<item id="A313079_1_En_7_Fig4_HTML" href="A313079_1_En_7_Fig4_HTML.gif" media-type="image/gif"/>
+<item id="A313079_1_En_6_Chapter_IEq00062" href="A313079_1_En_6_Chapter_IEq00062.gif" media-type="image/gif"/>
+<item id="A313079_1_En_16_Fig2_HTML" href="A313079_1_En_16_Fig2_HTML.gif" media-type="image/gif"/>
+<item id="A313079_1_En_7_Fig5_HTML" href="A313079_1_En_7_Fig5_HTML.gif" media-type="image/gif"/>
+<item id="A313079_1_En_7_Fig3_HTML" href="A313079_1_En_7_Fig3_HTML.gif" media-type="image/gif"/>
+<item id="A313079_1_En_10_Fig4_HTML" href="A313079_1_En_10_Fig4_HTML.gif" media-type="image/gif"/>
+<item id="A313079_1_En_6_Chapter_Equ00062" href="A313079_1_En_6_Chapter_Equ00062.gif" media-type="image/gif"/>
+<item id="A313079_1_En_7_Fig2_HTML" href="A313079_1_En_7_Fig2_HTML.gif" media-type="image/gif"/>
+
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="ACoverHTML"/>
+<itemref idref="A313079_1_En_BookFrontmatter_OnlinePDF"/>
+<itemref idref="A313079_1_En_1_Chapter"/>
+<itemref idref="A313079_1_En_2_ChapterPart1"/>
+<itemref idref="A313079_1_En_2_Chapter"/>
+<itemref idref="A313079_1_En_3_Chapter"/>
+<itemref idref="A313079_1_En_4_Chapter"/>
+<itemref idref="A313079_1_En_5_ChapterPart2"/>
+<itemref idref="A313079_1_En_5_Chapter"/>
+<itemref idref="A313079_1_En_6_Chapter"/>
+<itemref idref="A313079_1_En_7_Chapter"/>
+<itemref idref="A313079_1_En_8_Chapter"/>
+<itemref idref="A313079_1_En_9_Chapter"/>
+<itemref idref="A313079_1_En_10_ChapterPart3"/>
+<itemref idref="A313079_1_En_10_Chapter"/>
+<itemref idref="A313079_1_En_11_Chapter"/>
+<itemref idref="A313079_1_En_12_Chapter"/>
+<itemref idref="A313079_1_En_13_ChapterPart4"/>
+<itemref idref="A313079_1_En_13_Chapter"/>
+<itemref idref="A313079_1_En_14_Chapter"/>
+<itemref idref="A313079_1_En_15_Chapter"/>
+<itemref idref="A313079_1_En_16_Chapter"/>
+<itemref idref="A313079_1_En_17_Chapter"/>
+<itemref idref="A313079_1_En_18_ChapterPart5"/>
+<itemref idref="A313079_1_En_18_Chapter"/>
+<itemref idref="A313079_1_En_19_Chapter"/>
+<itemref idref="A313079_1_En_20_Chapter"/>
+<itemref idref="A313079_1_En_21_Chapter"/>
+<itemref idref="A313079_1_En_22_Chapter"/>
+<itemref idref="A313079_1_En_BookBackmatter_OnlinePDF"/>
+
+  </spine>
+  <guide>
+    <reference type="toc" title="Table of Contents" href="A313079_1_En_BookFrontmatter_OnlinePDF.html#Toc"/>
+    <reference type="text" title="1. Marginality—An Overview and Implications for Policy" href="A313079_1_En_1_Chapter.html"/>
+  </guide>
+</package>

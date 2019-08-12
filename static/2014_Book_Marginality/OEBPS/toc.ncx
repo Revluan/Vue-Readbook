@@ -1,0 +1,200 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:uid" content="978-94-007-7061-4"/>
+  </head>
+  <docTitle>
+     <text>Marginality</text>
+  </docTitle>
+  <docAuthor>
+     <text>Joachim Braun and Franz W. Gatzweiler</text>
+  </docAuthor>
+<navMap>
+    <navPoint id="navpoint-1" playOrder="1">
+      <navLabel>
+        <text>Cover</text>
+      </navLabel>
+      <content src="ACoverHTML.html"/>
+    </navPoint>
+    <navPoint id="navpoint-2" playOrder="2">
+      <navLabel>
+        <text>Frontmatter</text>
+      </navLabel>
+      <content src="A313079_1_En_BookFrontmatter_OnlinePDF.html"/>
+    </navPoint>
+    <navPoint id="navpoint-3" playOrder="3">
+      <navLabel>
+        <text>1. Marginality—An Overview and Implications for Policy</text>
+      </navLabel>
+      <content src="A313079_1_En_1_Chapter.html"/>
+    </navPoint>
+    <navPoint id="navpoint-4" playOrder="4">
+      <navLabel>
+        <text>1. Concepts and Theory</text>
+      </navLabel>
+      <content src="A313079_1_En_2_ChapterPart1.html"/>
+    <navPoint id="navpoint-5" playOrder="5">
+      <navLabel>
+        <text>2. Marginality—A Framework for Analyzing Causal Complexities of Poverty</text>
+      </navLabel>
+      <content src="A313079_1_En_2_Chapter.html"/>
+    </navPoint>
+    <navPoint id="navpoint-6" playOrder="6">
+      <navLabel>
+        <text>3. Exclusion and Initiatives to ‘Include’: Revisiting Basic Economics to Guide Development Practice</text>
+      </navLabel>
+      <content src="A313079_1_En_3_Chapter.html"/>
+    </navPoint>
+    <navPoint id="navpoint-7" playOrder="7">
+      <navLabel>
+        <text>4. Marginality from a Socio-ecological Perspective</text>
+      </navLabel>
+      <content src="A313079_1_En_4_Chapter.html"/>
+    </navPoint>
+
+    </navPoint>
+    <navPoint id="navpoint-8" playOrder="8">
+      <navLabel>
+        <text>2. Dimensions and Prevalence of Marginality</text>
+      </navLabel>
+      <content src="A313079_1_En_5_ChapterPart2.html"/>
+    <navPoint id="navpoint-9" playOrder="9">
+      <navLabel>
+        <text>5. Mapping Marginality Hotspots</text>
+      </navLabel>
+      <content src="A313079_1_En_5_Chapter.html"/>
+    </navPoint>
+    <navPoint id="navpoint-10" playOrder="10">
+      <navLabel>
+        <text>6. The Poorest: Who and Where They Are?</text>
+      </navLabel>
+      <content src="A313079_1_En_6_Chapter.html"/>
+    </navPoint>
+    <navPoint id="navpoint-11" playOrder="11">
+      <navLabel>
+        <text>7. Targeting the Poorest and Most Vulnerable: Examples from Bangladesh</text>
+      </navLabel>
+      <content src="A313079_1_En_7_Chapter.html"/>
+    </navPoint>
+    <navPoint id="navpoint-12" playOrder="12">
+      <navLabel>
+        <text>8. Correlates of Extreme Poverty in Rural Ethiopia</text>
+      </navLabel>
+      <content src="A313079_1_En_8_Chapter.html"/>
+    </navPoint>
+    <navPoint id="navpoint-13" playOrder="13">
+      <navLabel>
+        <text>9. Examining the Circle of Attachment Trauma, Shame, and Marginalization: The Unheard Voices of Young Kutchi Girls</text>
+      </navLabel>
+      <content src="A313079_1_En_9_Chapter.html"/>
+    </navPoint>
+
+    </navPoint>
+    <navPoint id="navpoint-14" playOrder="14">
+      <navLabel>
+        <text>3. Environmental Drivers of Marginality</text>
+      </navLabel>
+      <content src="A313079_1_En_10_ChapterPart3.html"/>
+    <navPoint id="navpoint-15" playOrder="15">
+      <navLabel>
+        <text>10. Poverty, Agriculture and the Environment: The Case of Sub-Saharan Africa</text>
+      </navLabel>
+      <content src="A313079_1_En_10_Chapter.html"/>
+    </navPoint>
+    <navPoint id="navpoint-16" playOrder="16">
+      <navLabel>
+        <text>11. The Marginal Poor and Their Dependence on Ecosystem Services: Evidence from South Asia and Sub-Saharan Africa</text>
+      </navLabel>
+      <content src="A313079_1_En_11_Chapter.html"/>
+    </navPoint>
+    <navPoint id="navpoint-17" playOrder="17">
+      <navLabel>
+        <text>12. Land Degradation, Poverty and Marginality</text>
+      </navLabel>
+      <content src="A313079_1_En_12_Chapter.html"/>
+    </navPoint>
+
+    </navPoint>
+    <navPoint id="navpoint-18" playOrder="18">
+      <navLabel>
+        <text>4. Experiencing Marginality in Africa and Asia</text>
+      </navLabel>
+      <content src="A313079_1_En_13_ChapterPart4.html"/>
+    <navPoint id="navpoint-19" playOrder="19">
+      <navLabel>
+        <text>13. Tackling Social Exclusion and Marginality for Poverty Reduction: Indian Experiences</text>
+      </navLabel>
+      <content src="A313079_1_En_13_Chapter.html"/>
+    </navPoint>
+    <navPoint id="navpoint-20" playOrder="20">
+      <navLabel>
+        <text>14. Consumption Behavior of the Poorest and Policy Implications in Indonesia</text>
+      </navLabel>
+      <content src="A313079_1_En_14_Chapter.html"/>
+    </navPoint>
+    <navPoint id="navpoint-21" playOrder="21">
+      <navLabel>
+        <text>15. Addressing Extreme Poverty and Marginality: Experiences in Rural China</text>
+      </navLabel>
+      <content src="A313079_1_En_15_Chapter.html"/>
+    </navPoint>
+    <navPoint id="navpoint-22" playOrder="22">
+      <navLabel>
+        <text>16. Experiences in Targeting the Poorest: A Case Study from Bangladesh</text>
+      </navLabel>
+      <content src="A313079_1_En_16_Chapter.html"/>
+    </navPoint>
+    <navPoint id="navpoint-23" playOrder="23">
+      <navLabel>
+        <text>17. Rural Poverty and Marginalization in Ethiopia: A Review of Development Interventions</text>
+      </navLabel>
+      <content src="A313079_1_En_17_Chapter.html"/>
+    </navPoint>
+
+    </navPoint>
+    <navPoint id="navpoint-24" playOrder="24">
+      <navLabel>
+        <text>5. Responses to Marginality at Different Levels: State, Business, and Community</text>
+      </navLabel>
+      <content src="A313079_1_En_18_ChapterPart5.html"/>
+    <navPoint id="navpoint-25" playOrder="25">
+      <navLabel>
+        <text>18. Macro, Fiscal and Decentralization Options to Address Marginality and Reach the Extremely Poor</text>
+      </navLabel>
+      <content src="A313079_1_En_18_Chapter.html"/>
+    </navPoint>
+    <navPoint id="navpoint-26" playOrder="26">
+      <navLabel>
+        <text>19. Social Protection, Marginality, and Extreme Poverty: Just Give Money to the Poor?</text>
+      </navLabel>
+      <content src="A313079_1_En_19_Chapter.html"/>
+    </navPoint>
+    <navPoint id="navpoint-27" playOrder="27">
+      <navLabel>
+        <text>20. Innovative Business Approaches for the Reduction of Extreme Poverty and Marginality?</text>
+      </navLabel>
+      <content src="A313079_1_En_20_Chapter.html"/>
+    </navPoint>
+    <navPoint id="navpoint-28" playOrder="28">
+      <navLabel>
+        <text>21. Business Initiatives That Overcome Rural Poverty and Marginality Through Creating Shared Value</text>
+      </navLabel>
+      <content src="A313079_1_En_21_Chapter.html"/>
+    </navPoint>
+    <navPoint id="navpoint-29" playOrder="29">
+      <navLabel>
+        <text>22. The Marginalized and Poorest in Different Communities and Settings of Ethiopia</text>
+      </navLabel>
+      <content src="A313079_1_En_22_Chapter.html"/>
+    </navPoint>
+    </navPoint>
+    <navPoint id="navpoint-30" playOrder="30">
+      <navLabel>
+        <text>Backmatter</text>
+      </navLabel>
+      <content src="A313079_1_En_BookBackmatter_OnlinePDF.html"/>
+    </navPoint>
+</navMap>
+</ncx>
